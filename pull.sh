@@ -8,6 +8,7 @@ images=(
  "pause:3.1"
  "etcd:3.2.24"
  "coredns:1.2.2"
+ "kube-addon-manager:v8.6"
 )
 
 for image in ${images[@]}; do
