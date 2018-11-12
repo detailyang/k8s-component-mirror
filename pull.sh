@@ -1,6 +1,7 @@
 #! /bin/bash -x
 
 images=(
+ "kube-apiserver:v1.12.2"
  "kube-controller-manager:v1.12.2"
  "kube-scheduler:v1.12.2"
  "kube-proxy:v1.12.2"
