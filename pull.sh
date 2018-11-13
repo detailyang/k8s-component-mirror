@@ -1,6 +1,7 @@
 #! /bin/bash -x
 
 images=(
+ "kubernetes-dashboard-amd64:v1.10.0"
  "kube-apiserver:v1.12.2"
  "kube-controller-manager:v1.12.2"
  "kube-scheduler:v1.12.2"
